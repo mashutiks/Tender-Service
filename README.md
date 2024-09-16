@@ -27,8 +27,10 @@ The application includes functionality for creating, editing, canceling, and rol
 
 [](https://github.com/mashutiks/Tender-Service/blob/main/README.md#1-clone-the-repository)
 
+```bash
 git clone https://github.com/mashutiks/Tender-Service.git
 cd Tender-Service/app
+```
 
 ### 2. Install dependencies
 Ensure that Docker and Docker Compose are installed. If not, you can install them from the official Docker website.
